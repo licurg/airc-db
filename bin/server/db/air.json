@@ -1,9 +1,1 @@
-[
-    {
-        "id": 2,
-        "area": "Kyiv",
-        "latitude": 50.4547,
-        "longitude": 30.5238,
-        "value": 0.8
-    }
-]
+[{"id":0,"area":"Kyiv","latitude":50.45466,"longitude":30.5238,"value":0.8}]
