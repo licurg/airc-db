@@ -12,7 +12,7 @@ To get data send GET HTTP request with JSON body, ex:
     "table": "air"
 }
 ```
-![Get all data](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot from 2020-04-25 17-55-36.png)
+![Get all data](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot%20from%202020-04-25%2017-55-36.png)
 
 ```
 {
@@ -21,7 +21,7 @@ To get data send GET HTTP request with JSON body, ex:
     "index": 0
 }
 ```
-![Get all data](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot from 2020-04-25 18-24-54.png)
+![Get all data](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot%20from%202020-04-25%2018-24-54.png)
 
 ```
 {
@@ -32,7 +32,7 @@ To get data send GET HTTP request with JSON body, ex:
     ]
 }
 ```
-![Get all data](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot from 2020-04-25 18-26-58.png)
+![Get all data](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot%20from%202020-04-25%2018-26-58.png)
 
 To change data send POST HTTP request with JSON body, ex:
 ```
@@ -45,7 +45,7 @@ To change data send POST HTTP request with JSON body, ex:
     ]
 }
 ```
-![Get all data](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot from 2020-04-25 18-02-27.png)
+![Get all data](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot%20from%202020-04-25%2018-02-27.png)
 
 To put data send PUT HTTP request with JSON body, ex:
 ```
@@ -61,7 +61,7 @@ To put data send PUT HTTP request with JSON body, ex:
     }
 }
 ```
-![Get all data](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot from 2020-04-25 18-05-45.png)
+![Get all data](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot%20from%202020-04-25%2018-05-45.png)
 
 To delete data send DELETE HTTP request with JSON body, ex:
 ```
@@ -71,7 +71,7 @@ To delete data send DELETE HTTP request with JSON body, ex:
     "index": 0
 }
 ```
-![Delete data with search](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot from 2020-04-25 18-12-50.png)
+![Delete data with search](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot%20from%202020-04-25%2018-12-50.png)
 
 ```
 {
@@ -82,4 +82,4 @@ To delete data send DELETE HTTP request with JSON body, ex:
     ]
 }
 ```
-![Delete data with search](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot from 2020-04-25 18-10-19.png)
+![Delete data with search](https://github.com/licurg/airc-db/blob/master/screenshots/Screenshot%20from%202020-04-25%2018-10-19.png)
